@@ -10,3 +10,4 @@ The initial stage involves collecting and preparing the Maharashtra dataset, whi
 - Area: The square footage of the property.<br>           
 - Number of Bedrooms: A critical feature that affects price.<br> 
 - Location: This could include both the city and more localized information such as neighborhoods.
+ 
